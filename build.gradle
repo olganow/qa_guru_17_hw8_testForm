@@ -20,6 +20,6 @@ dependencies {
 }
 
 test {
-    // горорим, что используем JUnitP
+    // говорим, что используем JUnit
     useJUnitPlatform()
 }
